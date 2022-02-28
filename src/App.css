@@ -1,7 +1,19 @@
-.App {
-  text-align: center;
+.App{
+  color: #0631be;
+  background-color: aliceblue;
 }
-
+.form {
+  display: flex;
+  text-align: justify;
+  justify-content: space-around;
+  padding-top: 40px;
+  width: 50%;
+}
+h1{
+  text-align: center;
+  padding-top: 40px;
+  padding-left: 10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
